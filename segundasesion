@@ -1,0 +1,8 @@
+Se volvio a revisar la manera de entrar a GCP, crear una cuenta nueva en google y crear la cuenta en GCP
+El instructor expuso las generalidades de GCP y guio al grupo en en la sala y a los conectados remotamente en como crear sus cuenta
+Se creo una instancia de VM de windows 2016
+Yo di de alta una nueva VM instance que contiene una maquina Debian 9 para probar.
+Volviendo a la VM Windows 2016, aunque quise entrar usando el remote desktop desde una red fuera de Honeywell, no me fue posible....
+... quizas por el username que estoy usando, que es Administrator o Administrador
+Debere esperar a preguntar a Octavio para probar nuevamente
+Las maquinas linux no tienen el impedimento de accesarlas desde la red Honeywell, ya que pude entrar con el SSH sin problema.
